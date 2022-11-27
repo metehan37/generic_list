@@ -1,0 +1,15 @@
+C:\Users\Metehan\Desktop\Pratikler\generic_list\bin\Debug\net6.0\generic_list.exe
+C:\Users\Metehan\Desktop\Pratikler\generic_list\bin\Debug\net6.0\generic_list.deps.json
+C:\Users\Metehan\Desktop\Pratikler\generic_list\bin\Debug\net6.0\generic_list.runtimeconfig.json
+C:\Users\Metehan\Desktop\Pratikler\generic_list\bin\Debug\net6.0\generic_list.dll
+C:\Users\Metehan\Desktop\Pratikler\generic_list\bin\Debug\net6.0\generic_list.pdb
+C:\Users\Metehan\Desktop\Pratikler\generic_list\obj\Debug\net6.0\generic_list.csproj.AssemblyReference.cache
+C:\Users\Metehan\Desktop\Pratikler\generic_list\obj\Debug\net6.0\generic_list.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Metehan\Desktop\Pratikler\generic_list\obj\Debug\net6.0\generic_list.AssemblyInfoInputs.cache
+C:\Users\Metehan\Desktop\Pratikler\generic_list\obj\Debug\net6.0\generic_list.AssemblyInfo.cs
+C:\Users\Metehan\Desktop\Pratikler\generic_list\obj\Debug\net6.0\generic_list.csproj.CoreCompileInputs.cache
+C:\Users\Metehan\Desktop\Pratikler\generic_list\obj\Debug\net6.0\generic_list.dll
+C:\Users\Metehan\Desktop\Pratikler\generic_list\obj\Debug\net6.0\refint\generic_list.dll
+C:\Users\Metehan\Desktop\Pratikler\generic_list\obj\Debug\net6.0\generic_list.pdb
+C:\Users\Metehan\Desktop\Pratikler\generic_list\obj\Debug\net6.0\generic_list.genruntimeconfig.cache
+C:\Users\Metehan\Desktop\Pratikler\generic_list\obj\Debug\net6.0\ref\generic_list.dll
